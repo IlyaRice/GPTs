@@ -1,10 +1,10 @@
-## AI_Way's helper
+# "AI_Way's helper"
 
-This bot helps to translate the exported chat messages of the Donate bot from Telegram into a structured data table. Just send me the result.json (if it does not fit into the chat, archive it beforehand)
+> **GPT's Description:** `This bot helps to translate the exported chat messages of the Donate bot from Telegram into a structured data table. Just send me the result.json (if it does not fit into the chat, archive it beforehand)`
 
-By Ilya Rice
+> **Crafted with Precision by:** `Ilya Rice`
 
-https://chat.openai.com/g/g-4OFX9p8CE-ai-way-s-helper
+Link to this GPT: https://chat.openai.com/g/g-4OFX9p8CE-ai-way-s-helper
 
 ```markdown
 [TASK]{Execute the attached code to convert custom JSON into files with structured tabular data.};
