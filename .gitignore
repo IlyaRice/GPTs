@@ -11,6 +11,7 @@
 *.sln.docstates
 template.md
 Tricky-tricky 3.md
+Tricky-tricky 3 slow.md
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
